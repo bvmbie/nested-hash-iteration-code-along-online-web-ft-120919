@@ -1,4 +1,4 @@
-# Code Along: Manipulating Nested Hashes
+ # Code Along: Manipulating Nested Hashes
 
 ## Objectives
 
